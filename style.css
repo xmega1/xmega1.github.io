@@ -11,7 +11,7 @@ body {
     line-height: 1.9mm;
     margin: 0;
     background-image: url ("../images/dinapart3.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: center bottom;
 
 }
