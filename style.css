@@ -4,13 +4,13 @@ h1 {
 
 body {
     color: rgb(0, 0, 0);
-    /*background-color: green;*/
+    background-color: green;
     font-family: Arial, Helvetica, sans-serif;
     /*font-size: 8mm;*/
     font-weight: bold;
     line-height: 2mm;
     margin: 0;
-    background-image: url("/images/dunapart3.jpg");
+    /*background-image: url("/images/dunapart3.jpg");*/
     background-repeat: repeat-y;
     background-position: center bottom;
 
