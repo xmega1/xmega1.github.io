@@ -35,3 +35,8 @@ a :hover{
     color: white;
     border: 3px blue solid;
 }
+.plakatok img {
+    width: 300px;       /* méret */
+    margin: 10px;       /* térköz */
+    border-radius: 10px; /* lekerekítés */
+}
