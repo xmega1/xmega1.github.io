@@ -1,0 +1,1 @@
+alert ('Szavazz a DUNÁRA!')
