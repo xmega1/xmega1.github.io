@@ -48,7 +48,7 @@ a :hover{
     right: 0;
     margin: 0px;
     padding: 5px;
-    background-color: black;
+    /*background-color: black;*/
     color: white;
-    border: 3px blue solid;
+    /*border: 3px blue solid;*/
 }
