@@ -1,6 +1,7 @@
 h1 {
     color: aqua;
 }
+
 h3 {
     color: gray;
 }
@@ -28,8 +29,8 @@ body {
     text-decoration: underline;
 }
 
-a :hover{
-    color:red
+a :hover {
+    color: red
 }
 
 .szoveg_desi1 {
@@ -39,10 +40,20 @@ a :hover{
     color: white;
     border: 3px blue solid;
 }
+
+.szoveg_desi1 img {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
 .plakatok img {
-    width: 240px;       /* méret */
-    margin: 10px;       /* térköz */
-    border-radius: 10px; /* lekerekítés */
+    width: 240px;
+    /* méret */
+    margin: 10px;
+    /* térköz */
+    border-radius: 10px;
+    /* lekerekítés */
 }
 
 .datum {
