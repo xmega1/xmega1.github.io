@@ -6,6 +6,10 @@ h3 {
     color: gray;
 }
 
+h4 {
+    color: red;
+}
+
 body {
     color: rgb(0, 0, 0);
     background-color: green;
