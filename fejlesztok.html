@@ -7,17 +7,18 @@
     <title>fejlesztők</title>
     <link rel="stylesheet" href="style.css">
 </head>
- 
+
 <body>
 
-    <dialog open>
-        <h2>Csatlakozz a chorus smp-re!</h2>
-        <p>Gyere és legyél egy jó közösség tagja! IP:chorussmp.xyz</p>
-        <a href="https://discord.com/channels/@me/1507756911301365761">discord</a>
-        <form method="dialog">
-            <button>Bezárás</button>
-        </form>
-    </dialog>
+    <div id="reklam"></div>
+
+    <script>
+        fetch("main/reklamchorus.html")
+            .then(res => res.text())
+            .then(data => {
+                document.getElementById("reklam").innerHTML = data;
+            });
+    </script>
 
     <div class="szoveg_desi1">
         <p> A weboldalt fejlesztette: , xmega1
