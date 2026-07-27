@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://xmega1.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://xmega1.github.io/tv.html</loc>
+  </url>
+
+  <url>
+    <loc>https://xmega1.github.io/programjaink.html</loc>
+  </url>
+
+  <url>
+    <loc>https://xmega1.github.io/fejlesztok.html</loc>
+  </url>
+
+  <url>
+    <loc>https://xmega1.github.io/archivfajlok.html</loc>
+  </url>
+
+</urlset>
